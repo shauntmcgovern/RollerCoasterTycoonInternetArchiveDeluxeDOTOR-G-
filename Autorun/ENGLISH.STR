@@ -1,0 +1,26 @@
+@AUTORUN_TITLE
+RollerCoaster Tycoon Deluxe
+@ERROR_INSTALLER
+Scrabble is not installed, insert the RollerCoaster Tycoon Deluxe Disc and run setup.
+@ERROR_LAUNCH_GAME
+There was an error launching the game.
+@ERROR_FILE_NOT_FOUND
+Unable to launch document.
+
+File not found.
+@BTN_HOVER_PLAY
+CLICK TO PLAY ROLLERCOASTER TYCOON DELUXE
+@BTN_HOVER_INSTALL
+CLICK TO INSTALL ROLLERCOASTER TYCOON DELUXE
+@BTN_HOVER_MANUAL
+CLICK TO VIEW MANUAL
+@BTN_HOVER_README
+CLICK TO VIEW RELEASE NOTES
+@BTN_HOVER_EXIT
+CLICK TO EXIT SETUP
+@QUERY_INSTALL_ACROBAT
+Adobe Acrobat Reader must be installed
+to view the online manual.
+
+Do you wish to install v5.10 now?
+@EOF
